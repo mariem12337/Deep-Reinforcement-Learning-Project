@@ -4,7 +4,7 @@ Ce dépôt contient le projet final du module **Théorie de l'Apprentissage par 
 
 ## Équipe
 - **Mariam**
-- **Babe**
+
 
 ## Contenu
 - `RL_Optimization_Project.ipynb` : Implémentation du Q-Learning (Tabulaire) et du DQN (Deep Q-Network) avec PyTorch.
